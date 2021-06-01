@@ -190,7 +190,7 @@
       \today
     \end{center}
     \renewcommand{\headrulewidth}{0.4pt}
-    \newpage
+%     \newpage
   }
 }
 
